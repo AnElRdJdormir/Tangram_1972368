@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\LEL\Downloads\Graficas Computacionales\OGL_Triangle\OGL_Triangle\main.cpp(132,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  OGL_Triangle.vcxproj -> C:\Users\LEL\Downloads\Graficas Computacionales\OGL_Triangle\Debug\OGL_Triangle.exe
